@@ -26,6 +26,10 @@ class Analitica extends CI_Controller {
 		}
 	} 
 	
+	function info(){
+		phpinfo();
+	}
+	
 	/*
 	** auth@r Lady Viviana Ramirez <lviviana.0309@gmail.com>
 	** metodo encargado de consumir el servicio ServiciosAZDigital.wsdl, usando la operacion BuscarArchivo
