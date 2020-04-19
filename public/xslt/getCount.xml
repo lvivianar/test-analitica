@@ -1,0 +1,62 @@
+<root>
+	<archivo>
+		<cantidad>7</cantidad>
+		<extension>Ninguna</extension>
+		<tipo_archivo>Ninguno</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>27</cantidad>
+		<extension>azhtml</extension>
+		<tipo_archivo>Archivo de prueba</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>31</cantidad>
+		<extension>docx</extension>
+		<tipo_archivo>Documento de texto</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>1</cantidad>
+		<extension>ico</extension>
+		<tipo_archivo>Archivo de imagen tipo ICONO</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>1</cantidad>
+		<extension>p12</extension>
+		<tipo_archivo>Archivo de prueba</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>366</cantidad>
+		<extension>pdf</extension>
+		<tipo_archivo>Archivo PDF</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>2</cantidad>
+		<extension>png</extension>
+		<tipo_archivo>Archivo de imagen tipo PNG</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>3</cantidad>
+		<extension>txt</extension>
+		<tipo_archivo>Documento de texto</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>5</cantidad>
+		<extension>url</extension>
+		<tipo_archivo>Pagin WEB</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>1</cantidad>
+		<extension>xls</extension>
+		<tipo_archivo>Documento de datos</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>126</cantidad>
+		<extension>xml</extension>
+		<tipo_archivo>Archivos XML</tipo_archivo>
+	</archivo>
+	<archivo>
+		<cantidad>2</cantidad>
+		<extension>xslt</extension>
+		<tipo_archivo>Plantilla XSL</tipo_archivo>
+	</archivo>
+</root>
